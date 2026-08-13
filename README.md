@@ -1,15 +1,14 @@
-
 <div align="center">
 
 <h1>
   Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Harshit Verma
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Build.;Train.;Deploy.;Automate.&center=true&width=500&height=45&color=00FFAA&size=24" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Build.;Train.;Deploy.;Automate.&center=true&width=500&height=45&color=00FFAA&size=24" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=17&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Web+Developer+%7C+AI%2FML%2FDL+Engineer+%F0%9F%87%AE%F0%9F%87%B3;Building+with+LLMs+%2B+GenAI+%2B+Agentic+AI" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Web+Developer+%7C+AI%2FML%2FDL+Engineer+%F0%9F%87%AE%F0%9F%87%B3;Building+with+LLMs+%2B+GenAI+%2B+Agentic+AI" />
 
 </div>
 
@@ -209,7 +208,7 @@ Web Development, Machine Learning, Deep Learning, LLMs, Generative AI, Agentic A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiit112&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="165px"/>
+  <img src="https://streak-stats.demolab.com/?user=harshiit112&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="165px"/>
 </p>
 
 </details>
