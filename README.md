@@ -126,7 +126,7 @@ I'm a Computer Science graduate (B.Sc. CS, Oriental Institute of Science and Tec
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=harshiit112&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img alt="GitHub trophies" src="https://github-stats-extended.vercel.app/api?username=harshiit112&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
