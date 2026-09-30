@@ -1,276 +1,148 @@
 <div align="center">
 
-<h1>
-  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Harshit Verma
-</h1>
+# Hey 👋 I'm Harshit Verma
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Build.;Train.;Deploy.;Automate.&center=true&width=500&height=45&color=00FFAA&size=24" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Building+LLM+Agents+%26+RAG+Apps;Build.+Train.+Deploy.+Automate." alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Web+Developer+%7C+AI%2FML%2FDL+Engineer+%F0%9F%87%AE%F0%9F%87%B3;Building+with+LLMs+%2B+GenAI+%2B+Agentic+AI" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-drab-omega-71.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-verma-649b88313/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Harshit33908588)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hv702383@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=harshiit112&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile views" />
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
-
-### 🌐 Portfolio
-```bash
-https://my-portfolio-drab-omega-71.vercel.app/
-```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
-
-<!-- ================= ABOUT ME ================= -->
-
-<img align="right"
-     alt="Coding"
-     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-     width="350"
-     style="border-radius:12px; margin-left:30px; margin-top:50px;">
+---
 
 ## 🚀 About Me
 
-👋 Hey! I'm **Harshit Verma**, a graduate developer working at the intersection of **Web Development** and **Artificial Intelligence** — I build full-stack applications and layer them with **Machine Learning, Deep Learning, LLMs, Generative AI, and Agentic AI** systems.
+I'm a Computer Science graduate (B.Sc. CS, Oriental Institute of Science and Technology, 2026) based in Bhopal, India. I build **full-stack web apps** and **AI-powered products**: real-time chat and video, LLM agents, RAG pipelines, and deep learning models that are deployed and usable, not just notebooks.
 
-- 🎓 Education: **Graduate**
-- 💻 Web Dev: **HTML, CSS, JavaScript, React, Node.js**
-- 🤖 AI/ML: **Python, ML, DL, LLMs, GenAI, Agentic AI**
-- 🧠 Currently exploring: **RAG pipelines & AI Agents**
-- 😄 Pronouns: **He/Him**
-- ⚡ Motto: **Build. Train. Deploy. Automate. 🚀**
-- 📫 Reach me via the links below
+- 🌐 **Web:** React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Supabase
+- 🤖 **AI/ML:** LangChain, LangGraph, RAG, LLM agents, TensorFlow/Keras, FastAPI
+- 🧠 **Currently exploring:** agentic workflows, tool-calling agents, and safe human-in-the-loop AI
+- 🗣️ **Languages:** English, Hindi
+- 💼 **Open to:** Full-Stack, AI/ML, and LLM/GenAI Application roles
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
+---
 
-## 🧠 Core Skills
+## 🛠️ Tech Stack
 
-- Full-Stack Web Development (React, Node.js, REST APIs)
-- Machine Learning & Deep Learning (scikit-learn, TensorFlow, PyTorch)
-- Large Language Models & Generative AI
-- Agentic AI Systems & AI Automation Workflows
-- Prompt Engineering & RAG Pipelines
-- Git/GitHub, SQL, Data Structures & Algorithms
+**Languages**
 
-<h3 align="center">🎯 Vision</h3>
-<p align="center">
-  To build intelligent, agentic web applications that merge robust <strong>full-stack engineering</strong> with cutting-edge <strong>AI/LLM systems</strong>.
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br>
+**Frontend**
 
-<p align="center">
-  <a href="https://github.com/harshiit112" target="_blank" title="View GitHub Profile">
-    <img src="https://komarev.com/ghpvc/?username=harshiit112&label=Profile%20Views&color=bf91f3&style=flat" />
-  </a>
-  <a href="https://github.com/harshiit112?tab=followers" target="_blank" title="View Followers">
-    <img src="https://img.shields.io/github/followers/harshiit112?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/harshiit112?tab=repositories" target="_blank" title="View Repositories">
-    <img src="https://img.shields.io/github/stars/harshiit112?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white"/>
-  </a>
-  <a href="https://github.com/harshiit112?tab=repositories" target="_blank" title="View Public Repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshiit112&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white"/>
-  </a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
+**Backend & APIs**
 
-<!-- ================= PROJECTS ================= -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
-## 💼 What I Work On
+**AI / ML**
 
-📌 My work includes:
-- Full-stack web apps (React / Node.js)
-- Machine Learning & Deep Learning models
-- LLM-powered applications & RAG pipelines
-- Agentic AI workflows & automation
-- API integrations with GenAI tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
+**Databases**
 
-## 💬 Ask me about:
-Web Development, Machine Learning, Deep Learning, LLMs, Generative AI, Agentic AI, Python, and AI Model Deployment.
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
+**Tools & Platforms**
 
-<!-- ================= GET IN TOUCH ================= -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-## 📫 Get in Touch
+---
 
-<p align="left">
+## 💼 Featured Projects
 
-<a href="https://github.com/harshiit112" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: invert(1);"/>
-</a>
+### 🤖 AI / ML
 
-<a href="https://www.linkedin.com/in/harshit-verma-649b88313/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+| Project | What it does | Stack |
+|---|---|---|
+| **[TerrorGT – GPT](https://github.com/harshiit112/system_agent_01)** · [Live](https://system-agent-01.onrender.com) | Multi-model AI chat (Mistral, Groq, Gemini) with a LangGraph agent that decides when to call tools such as web search, weather, and memory. Document RAG over PDF, DOCX, TXT, MD, PY, and CSV, plus thread-based chat history. | Python, FastAPI, LangGraph, LangChain, Chroma, SQLite, Tavily |
+| **[CoreClaw](https://github.com/harshiit112/CoreClaw_System_Model_0.0.1)** | Local-first AI coding agent with Agent, Plan, and Ask modes. Every file change is staged as a diff and applied only after approval. Works from the terminal and Telegram, with path-traversal protection and file-size limits. | TypeScript, Bun, Vercel AI SDK, OpenRouter, Telegraf, Firecrawl |
+| **[Emotion Engine](https://github.com/harshiit112/mood_predict)** · [Live](https://mood-predict.onrender.com) | End-to-end NLP classifier for 6 emotions. Bidirectional GRU trained on 16,000 samples, reaching **88.35% test accuracy**, served through an async FastAPI backend with a mood-reactive UI. | Python, TensorFlow, Keras, FastAPI, Hugging Face, scikit-learn |
+| **[PrismAI](https://github.com/harshiit112/prism-ai-model)** · [Live](https://prism-ai-model-hvanjotevlplsadatlujx6.streamlit.app/) | Multi-agent system that automates web research and report drafting. | Python, Streamlit |
+| **[Agentic Travel Planner](https://github.com/harshiit112/agentic_bot_01)** · [Live](https://agentic-bot-01.onrender.com) | Multi-agent planner combining live flight data, web research, and LLM itinerary generation. | Python, FastAPI |
 
-<a href="https://x.com/Harshit33908588" target="_blank">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="28"/>
-</a>
+### 🌐 Full-Stack
 
-<a href="https://my-portfolio-drab-omega-71.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
-</a>
+| Project | What it does | Stack |
+|---|---|---|
+| **[Alpha Slack](https://github.com/harshiit112/alpha_slack)** · [Live](https://alpha-slack-frontend.vercel.app/) | Slack-style workspace with channels, DMs, reactions, and group video calls with screen sharing. Backend-generated tokens keep API secrets out of the browser. Clerk auth, Inngest background jobs, Sentry monitoring. | React, Node.js, Express, MongoDB, Stream, Clerk, Inngest, Sentry |
+| **[DealDrop – Price Tracker](https://github.com/harshiit112/price_tracker)** · [Live](https://pricetrackethree.vercel.app/) | Track prices from any e-commerce link, view history in charts, and get email alerts on price drops. Firecrawl AI extraction, secured cron checks, Supabase auth with Row Level Security. | Next.js, React, Supabase, PostgreSQL, Firecrawl, Resend, Recharts |
+| **[neon.ai](https://github.com/harshiit112/neon_ai)** · [Live](https://neonai-ten.vercel.app) | AI presentation studio: describe a topic, pick style, tone, and slide count, and get an editable deck. | TanStack Start, TypeScript |
+| **[Chit Chat](https://github.com/harshiit112/chit_chat_app_alpha)** · [Live](https://chitchat-idng.onrender.com) | Real-time chat and video calling platform. | React, Express, MongoDB |
 
-</p>
+➡️ More on my [portfolio](https://my-portfolio-drab-omega-71.vercel.app/) or the [repositories tab](https://github.com/harshiit112?tab=repositories).
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
-
-<!-- ================= TECH STACK ================= -->
-
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
-
-<p align="left">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshiit112&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiit112&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&text_color=34A89D" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
-
-<h2 align="center">🤖 AI / GenAI Tools</h2>
-
-<p align="left">
-
-<a href="https://openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-<a href="https://chat.openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-<a href="https://www.anthropic.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</a>
-<a href="https://gemini.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
-<a href="https://www.langchain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</a>
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-<a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
-
-<!-- ================= GITHUB STATS ================= -->
-<details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-
-  <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshiit112&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiit112&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshiit112&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="165px"/>
-</p>
-
-</details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=harshiit112&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd&hide_border=true" />
 </p>
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshiit112&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harshiit112&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-<!-- ================= TROPHIES ================= -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshiit112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=harshiit112&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
-<!-- ================= QUOTE ================= -->
+---
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+## 🎓 Education & Certifications
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+- 🎓 **Bachelor of Computer Science**, Oriental Institute of Science and Technology, Bhopal (2022 – 2026)
+- 📜 Coursera Certificate: Python, DBMS
+- 📜 Coding Shuttle: DSA Completion Certificate
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
+---
 
-<!-- ================= EDUCATION ================= -->
+## 🤝 Let's Connect
 
-## 🎓 Education
+I'm looking for roles where I can ship scalable, user-focused products in **Full-Stack Development**, **AI/ML Engineering**, or **LLM & Agentic AI**.
 
-- 🎓 **Graduate** (Degree Completed)
-- 💻 Focus: **Web Development & Artificial Intelligence**
+📫 [hv702383@gmail.com](mailto:hv702383@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harshit-verma-649b88313/) · [Portfolio](https://my-portfolio-drab-omega-71.vercel.app/)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="100%" />
-</p>
-
-<!-- ================= CONNECT ================= -->
-
-## 🤝 Let's Connect!
-
-💡 Open to opportunities in:
-- Full-Stack Web Development
-- Machine Learning / Deep Learning Engineering
-- LLM & GenAI Application Development
-- Agentic AI / AI Automation Roles
-
-🚀 *Ready to build intelligent, production-ready solutions.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="" />
