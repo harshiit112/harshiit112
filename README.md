@@ -120,7 +120,7 @@ I'm a Computer Science graduate (B.Sc. CS, Oriental Institute of Science and Tec
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/00b3ff/harshiit112" />
+  <img alt="Contribution chart" src="https://ghchart.rshah.org/56D364/harshiit112" />
 </p>
 
 
