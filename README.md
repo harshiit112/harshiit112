@@ -120,7 +120,7 @@ I'm a Computer Science graduate (B.Sc. CS, Oriental Institute of Science and Tec
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img alt="Contribution activity graph" src="https://github-stats-extended.vercel.app/api?username=harshiit112&theme=radical&hide_border=true&area=true" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harshiit112&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ## 🏆 GitHub Trophies
