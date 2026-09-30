@@ -31,7 +31,7 @@ https://my-portfolio-drab-omega-71.vercel.app/
      alt="Coding"
      src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
      width="350"
-     style="border-radius:12px; margin-left:25px; margin-top:20px;">
+     style="border-radius:12px; margin-left:30px; margin-top:50px;">
 
 ## 🚀 About Me
 
