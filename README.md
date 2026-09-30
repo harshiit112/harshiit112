@@ -109,8 +109,8 @@ I'm a Computer Science graduate (B.Sc. CS, Oriental Institute of Science and Tec
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshiit112&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiit112&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&text_color=34A89D" />
+  <img height="165" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=harshiit112&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D" />
+  <img height="165" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshiit112&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&text_color=34A89D" />
 </p>
 
 <p align="center">
