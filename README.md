@@ -119,10 +119,9 @@ I'm a Computer Science graduate (B.Sc. CS, Oriental Institute of Science and Tec
 
 ## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshiit112/harshiit112/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/harshiit112/harshiit112/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="Contribution chart" src="https://ghchart.rshah.org/00b3ff/harshiit112" />
+</p>
 
 
 
